@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm [![Ratnesh](www.instagram.com/ratnesh__dwivedi)]
+I'm [Ratnesh](www.instagram.com/ratnesh__dwivedi)
 
 - 🔭 I’m currently working on Security Testing
 - 🌱 I’m currently learning CyberSecurity Toolkit
