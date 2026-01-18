@@ -1,11 +1,11 @@
 ## Hi there 👋
-Myself [Ratnesh](https://www.instagram.com/rr.dwivedi_/)
+Myself [Ratnesh Raj Dwivedi](https://www.linkedin.com/in/ratnesh-raj-dwivedi)
 
 - 🔭 I’m currently working on Security Testing
 - 🌱 I’m currently learning CyberSecurity Toolkit
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Ethical Hacking
+- 🤔 I’m looking for help with Career Development
+- 💬 Ask me about Security, Forensic
 - 📫 How to reach me: ratneshd202@gmail.com
 <!--
 **ratnesh1dwivedi/ratnesh1dwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
